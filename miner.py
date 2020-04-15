@@ -151,5 +151,5 @@ def my_first_miner():
 
 
 if __name__ == '__main__':
-    my_first_miner()
+    _zdos_miner()
 
