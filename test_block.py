@@ -1,7 +1,7 @@
 
 import pytest
 
-from fcc_coin.block import Block
+from zdos_coin.block import Block
 
 
 @pytest.fixture
