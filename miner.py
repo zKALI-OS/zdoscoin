@@ -1,3 +1,8 @@
+#python 2.7.15
+
+print "zdOSminer!"
+
+
 import hashlib
 from time import sleep
 
